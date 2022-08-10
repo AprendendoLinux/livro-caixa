@@ -29,8 +29,8 @@ Baixe o arquivo e descompacte no diretório do seu servidor.
 Importe o arquivo **sql/livrocaixa.sql** em seu gerenciador de banco de dados do MySQL
 Modifique o arquivo **includes/config.php** com o usuário e a senha do seu banco, e o usuário e senha para autenticação
 
-**Acesse:** http://edereco-do-seu-servidor/
-**Usuário:** admin@admin
+**Acesse:** http://edereco-do-seu-servidor \
+**Usuário:** admin@admin \
 **Senha:** 123456
 
 Isso é tudo!
