@@ -9,7 +9,7 @@ Esse sistema é um fork gratuito da versão vendida [neste link](https://temdetu
 
 ![](https://raw.githubusercontent.com/AprendendoLinux/livro-caixa/main/img/all/controle-financeiro.jpg)
 
-**[Clique aqui para fazer download do sistema](https://github.com/AprendendoLinux/livro-caixa/releases/download/1.3/livro-caixa.tar.gz)**
+**[Clique aqui para fazer download do sistema](https://github.com/AprendendoLinux/livro-caixa/releases/download/1.3.5/livro-caixa.tar.gz)**
 
 **Funcionalidades:**
 * Navegação por mês
