@@ -1,6 +1,13 @@
 ## Sistema de Livro Caixa - Controle Financeiro
 
-Versão atual: 1.3
+Esse sistema é um fork gratuito da versão vendida [neste link](https://temdetudoscript.com/item/Script-Php-Livro-Caixa-%252d-Simple-Lc-%252d-100%25.html).
+
+**Melhorias implantadas:**
+* Correção de Charsets (Caracteres acentuados não eram reconhecidos)
+* Padronização de Categorias
+* Migração de ISO pra UTF8
+
+![](https://raw.githubusercontent.com/AprendendoLinux/livro-caixa/main/img/all/controle-financeiro.jpg)
 
 **[Clique aqui para fazer download do sistema](https://github.com/AprendendoLinux/livro-caixa/releases/download/1.3/livro-caixa.tar.gz)**
 
@@ -14,8 +21,8 @@ Versão atual: 1.3
 * Filtro por Categorias
 
 **Requisitos:**
-* PHP 5.6 (**Não pode** ser outra versão)
-* Mysql
+* PHP 5.6 (Use [esse contêiner](https://hub.docker.com/r/aprendendolinux/php5.6.40-apache), pois **não pode** ser outra versão)
+* Mysql (ou MariaDB) Server 5.7 (Não testei com outra versão)
 
 Baixe o arquivo e descompacte no diretório do seu servidor.
 
