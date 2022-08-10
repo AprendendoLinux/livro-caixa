@@ -2,7 +2,7 @@
 
 Versão atual: 1.3
 
-Clique aqui para Download do Sistema
+**[Clique aqui para fazer download do sistema](https://github.com/AprendendoLinux/livro-caixa/releases/download/1.3/livro-caixa.tar.gz)**
 
 **Funcionalidades:**
 * Navegação por mês
