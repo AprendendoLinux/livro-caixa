@@ -27,7 +27,7 @@ Esse sistema é um fork gratuito da versão vendida [neste link](https://temdetu
 Baixe o arquivo e descompacte no diretório do seu servidor.
 
 Importe o arquivo **sql/livrocaixa.sql** em seu gerenciador de banco de dados do MySQL
-Modifique o arquivo **includes/config.php** com o usuário e a senha do seu banco, e o usuário e senha para autenticação
+Modifique o arquivo **includes/config.php** com o usuário e a senha do seu banco
 
 **Acesse:** http://edereco-do-seu-servidor \
 **Usuário:** admin@admin \
